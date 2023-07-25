@@ -1,3 +1,5 @@
+
+import "url-loader";
 import "bootstrap/dist/css/bootstrap.min.css"
 import "animate.css"
 
